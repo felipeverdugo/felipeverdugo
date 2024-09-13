@@ -17,8 +17,8 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 - **Herramientas**: GitHub, Heroku, 
 
 ## 📚 Proyectos Destacados
-- [Proyecto 1](https://github.com/felipeverdugo/grupo12_BBD2)
-- [Proyecto 2](https://github.com/manueldelu/vacunassist) 
+- [SpringBoot](https://github.com/felipeverdugo/grupo12_BBD2)
+- [Larabel](https://github.com/manueldelu/vacunassist) 
 
 ## 📫 Contacto
 - **Email**: [tu-email@example.com](felipeverdugo016@gmail.com)
