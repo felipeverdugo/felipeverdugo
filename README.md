@@ -22,6 +22,6 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 ## 📫 Contacto
 - **Email**: felipeverdugo016@gmail.com
 - **LinkedIn**: [felipeverdugo](https://www.linkedin.com/in/felipe-verdugo-9a431a254/)
-![Código] (https://www.istockphoto.com/es/foto/visualizaci%C3%B3n-de-big-data-part%C3%ADculas-digitales-abstractas-antecedentes-de-la-red-gm1987307560-559379782)
+
 
 ¡Gracias por visitar mi perfil! 🚀
