@@ -9,7 +9,11 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 ## 🛠 Tecnologías y Herramientas
 - **Lenguajes de Programación**: Java, JavaScript, TypeScript
 - **Frameworks y Librerías**: Spring Boot, React
-- **Herramientas**: GitHub, Heroku, 
+- **Herramientas**: GitHub, Heroku,
+
+  ![Java](https://img.shields.io/badge/Java-%23f89820?style=flat&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=spring&logoColor=white)
+
 
 ## 📚 Proyectos Destacados
 - [SpringBoot](https://github.com/felipeverdugo/grupo12_BBD2)
