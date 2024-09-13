@@ -23,4 +23,6 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 - **Email**: felipeverdugo016@gmail.com
 - **LinkedIn**: [felipeverdugo](https://www.linkedin.com/in/felipe-verdugo-9a431a254/)
 
+![Minimalista](https://images.unsplash.com/photo-1533051784773-2c1f865c9204?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fG1pbmltYWxpc3R8ZW58MHx8fDE2NjA2Mjg3NjQ&ixlib=rb-1.2.1&q=80&w=1080)
+
 ¡Gracias por visitar mi perfil! 🚀
