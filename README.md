@@ -1,6 +1,3 @@
-# ¡Hola! Soy [FelipeVerdugo](https://github.com/felipeverdugo)
-
-
 
 ## 🚀 Mis Intereses
 
