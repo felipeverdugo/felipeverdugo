@@ -1,5 +1,5 @@
 
-## 🚀 Mis Intereses
+## 🎓 Sobre mí
 
 Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo backend** 💻 y mi tecnología favorita es **Java** ☕ . 
 
