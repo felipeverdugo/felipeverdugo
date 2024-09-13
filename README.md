@@ -18,7 +18,7 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 - [Larabel](https://github.com/manueldelu/vacunassist) 
 
 ## 📫 Contacto
-- **Email**: [felipeverdugo016@gmail.com](felipeverdugo016@gmail.com)
+- **Email**: [felipeverdugo016@gmail.com]
 - **LinkedIn**: [felipeverdugo](https://www.linkedin.com/in/felipe-verdugo-9a431a254/)
 
 ¡Gracias por visitar mi perfil! 🚀
