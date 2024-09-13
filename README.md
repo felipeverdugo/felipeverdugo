@@ -1,6 +1,6 @@
 # ¡Hola! Soy [FelipeVerdugo](https://github.com/felipeverdugo)
 
-![Tu Avatar](https://avatars.githubusercontent.com/felipeverdugo)
+
 
 ## 🚀 Mis Intereses
 
