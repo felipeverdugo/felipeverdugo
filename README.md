@@ -7,6 +7,9 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 - **Backend Development**: Desarrollo de aplicaciones backend robustas y eficientes.
 - **Java**: Mi lenguaje de programación favorito y con el que más disfruto desarrollar.
 - **Tecnologías**: Spring Boot, Hibernate, RESTful APIs.
+- ![Java](https://github.com/tu-usuario/tu-repositorio/raw/main/java-icon.svg)
+- ![Spring](https://github.com/tu-usuario/tu-repositorio/raw/main/spring-icon.svg)
+
 
 ## 🛠 Tecnologías y Herramientas
 - **Lenguajes de Programación**: Java, JavaScript, TypeScript
