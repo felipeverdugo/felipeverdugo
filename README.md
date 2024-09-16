@@ -17,7 +17,7 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 
 ## 📚 Proyectos Destacados
 - [SpringBoot](https://github.com/felipeverdugo/grupo12_BBD2)
-- [Larabel](https://github.com/felipeverdugo/vacunassist)
+- [Larabel](https://github.com/felipeverdugo/Laravel)
 
 ## 📫 Contacto
 - **Email**: felipeverdugo016@gmail.com
