@@ -20,6 +20,7 @@ Soy estudiante de la **Licenciatura en Sistemas**. Me gusta el **desarrollo back
 - [Larabel](https://github.com/felipeverdugo/Laravel)
 - [SpringBoot-asistente-pagos](https://github.com/felipeverdugo/asistente-pagos)
 - [MongoDB](https://github.com/felipeverdugo/mongoDB)
+- [SQL](https://github.com/felipeverdugo/SQL)
   
 
 ## 📫 Contacto
